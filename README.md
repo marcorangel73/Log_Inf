@@ -10,3 +10,4 @@ https://www.canva.com/design/DAGfsUlBczg/QSCStm-HTd0EmTqU_YaQkQ/edit?utm_content
 ## 3º Atividade: Planilha Excel Alunos Estrangeiros no estado de São Paulo
 
 ## 4º Atividade: Dashboard Power BI Alunos Estrangeiros no estado de São Paulo
+![image](https://github.com/user-attachments/assets/ae332413-771c-4f25-9c19-7a1f6bb1b41b)
