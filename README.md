@@ -12,3 +12,6 @@ https://www.canva.com/design/DAGfsUlBczg/QSCStm-HTd0EmTqU_YaQkQ/edit?utm_content
 
 ## 4º Atividade: Dashboard Power BI Alunos Estrangeiros no estado de São Paulo
 ![image](https://github.com/user-attachments/assets/ae332413-771c-4f25-9c19-7a1f6bb1b41b)
+
+## 5º Atividade: Excel + Dashboard Power BI - Situação dos Portos
+![image](https://github.com/user-attachments/assets/33600766-de65-43aa-beda-1ebe4446baaf)
