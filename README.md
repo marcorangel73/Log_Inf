@@ -20,3 +20,7 @@ https://www.canva.com/design/DAGfsUlBczg/QSCStm-HTd0EmTqU_YaQkQ/edit?utm_content
 ## Análises Peças Computador
 ![image](https://github.com/user-attachments/assets/01b0b42f-cdee-4ae4-8361-5a42e299aa01)
 Conforme visualizado no gráfico e confirmado na tabela com as celulas em destaque, a melhor opção para pedido de até 3000 unidades é comprar a peça do Fornecedor A, acima dessa quantidade a melhor opção passa ser a fabricação propria.
+
+## Análise Confecção de Sandálias
+![image](https://github.com/user-attachments/assets/a44b48d2-75ff-41f7-8669-979b0722a8aa)
+Conforme visualizado, uma produção de 6000 Sandálias com venda por R$ 5,00 cada unidade será o minimo necessario para cobrir os custos da produção.
