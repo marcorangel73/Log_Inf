@@ -16,3 +16,7 @@ https://www.canva.com/design/DAGfsUlBczg/QSCStm-HTd0EmTqU_YaQkQ/edit?utm_content
 ## 5º Atividade: Excel + Dashboard Power BI - Situação dos Portos
 ![image](https://github.com/user-attachments/assets/33600766-de65-43aa-beda-1ebe4446baaf)
 ![image](https://github.com/user-attachments/assets/26dde0ef-0fe1-4cac-bc2a-21199ee07ae8)
+
+## Análises Peças Computador
+![image](https://github.com/user-attachments/assets/01b0b42f-cdee-4ae4-8361-5a42e299aa01)
+Conforme visualizado no gráfico e confirmado na tabela com as celulas em destaque, a melhor opção para pedido de até 3000 unidades é comprar a peça do Fornecedor A, acima dessa quantidade a melhor opção passa ser a fabricação propria.
