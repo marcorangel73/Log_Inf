@@ -24,3 +24,7 @@ Conforme visualizado no gráfico e confirmado na tabela com as celulas em destaq
 ## Análise Confecção de Sandálias
 ![image](https://github.com/user-attachments/assets/a44b48d2-75ff-41f7-8669-979b0722a8aa)
 Conforme visualizado, uma produção de 6000 Sandálias com venda por R$ 5,00 cada unidade será o minimo necessario para cobrir os custos da produção.
+
+## Análise Fabrica Panela de Pressão
+![image](https://github.com/user-attachments/assets/dd6fcd03-fb18-46e8-993b-dcb3787db4a2)
+
