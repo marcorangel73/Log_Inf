@@ -28,3 +28,6 @@ Conforme visualizado, uma produção de 6000 Sandálias com venda por R$ 5,00 ca
 ## Análise Fabrica Panela de Pressão
 ![image](https://github.com/user-attachments/assets/dd6fcd03-fb18-46e8-993b-dcb3787db4a2)
 
+## PowerApp
+https://github.com/user-attachments/assets/23f5102c-949b-40ae-87f8-1a215edf1e65
+
