@@ -32,4 +32,4 @@ Conforme visualizado, uma produção de 6000 Sandálias com venda por R$ 5,00 ca
 https://github.com/user-attachments/assets/23f5102c-949b-40ae-87f8-1a215edf1e65
 
 ## Power Automate
-https://github.com/marcorangel73/Log_Inf/blob/main/Power%20Automate.mp4
+
