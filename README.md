@@ -37,3 +37,4 @@ https://github.com/user-attachments/assets/36950a0c-3377-40d9-90e0-e34d23afed0f
 ![image](https://github.com/user-attachments/assets/5883f08c-cb49-4a45-9fcd-83e6e7758f82)
 
 ## Prova - Questão 6
+https://github.com/marcorangel73/Log_Inf/blob/main/Sem%20t%C3%ADtulo%20-%20Power%20BI%20Desktop%202025-06-26%2022-17-30.mp4
