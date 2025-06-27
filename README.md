@@ -40,3 +40,4 @@ https://github.com/user-attachments/assets/36950a0c-3377-40d9-90e0-e34d23afed0f
 https://github.com/marcorangel73/Log_Inf/blob/main/Sem%20t%C3%ADtulo%20-%20Power%20BI%20Desktop%202025-06-26%2022-17-30.mp4
 
 ## Prova - Questão 1
+https://github.com/marcorangel73/Log_Inf/blob/main/Quest%C3%A3o%2001.mp4
